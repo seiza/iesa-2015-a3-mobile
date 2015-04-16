@@ -26,3 +26,4 @@ Liste des étudiants :
 1. https://github.com/kochira/iesa-2015-a3-mobile (jeanphilippe guillermo)
 1. https://github.com/melanie2b4/iesa-2015-a3-mobile (Melanie WAROUX)
 1. https://github.com/Sopham/iesa-2015-a3-mobile ( Sonia Pham )
+1. https://github.com/elvis783/cordova ( Elvis Perazic )
