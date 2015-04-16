@@ -2,7 +2,7 @@
 
 Liste des étudiants :
 
-1. https://github.com/jock91/iesa-2015-a3-mobile
+1. https://github.com/jock91/iesa-2015-a3-mobile (Kevin DESPERRIES)
 1. https://github.com/Takushi60/iesa-2015-a3-mobile (Florian Cabaret)
 1. https://github.com/ArnaudTarroux/iesa-2015-a3-mobile (Arnaud Tarroux)
 1. https://github.com/soheilsk/iesa-2015-a3-mobile (soheil sk)
@@ -26,3 +26,4 @@ Liste des étudiants :
 1. https://github.com/kochira/iesa-2015-a3-mobile (jeanphilippe guillermo)
 1. https://github.com/melanie2b4/iesa-2015-a3-mobile (Melanie WAROUX)
 1. https://github.com/Sopham/iesa-2015-a3-mobile ( Sonia Pham )
+1. https://github.com/EoleO/iesa-2015-a3-mobile (Léo LAPUJADE)
